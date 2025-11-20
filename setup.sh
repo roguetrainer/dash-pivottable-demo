@@ -3,6 +3,7 @@
 # Setup script for dash-pivottable environment
 
 echo "Creating virtual environment..."
+
 alias python3='/usr/local/bin/python3'
 python3 -m venv venv
 

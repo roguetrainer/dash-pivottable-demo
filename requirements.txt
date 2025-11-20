@@ -1,0 +1,6 @@
+dash>=2.14.0
+dash-pivottable>=0.0.2
+pandas>=2.0.0
+jupyter-dash>=0.4.2
+jupyter>=1.0.0
+notebook>=7.0.0

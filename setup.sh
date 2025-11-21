@@ -5,6 +5,10 @@
 echo "Creating virtual environment..."
 
 alias python3='/usr/local/bin/python3'
+echo "python3 is: " 
+alias python3
+python3 --version  
+
 python3 -m venv venv
 
 echo "Activating virtual environment..."
